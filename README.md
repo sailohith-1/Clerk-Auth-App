@@ -124,3 +124,7 @@ Make sure you've created a `.env` file with your Clerk publishable key and that 
 
 This project is open source and available for educational purposes.
 
+## NOTE
+
+---->>>> IF THERE IS ANY ISSUE IN MOBILE , TRY CHECKING IN WEB.
+
